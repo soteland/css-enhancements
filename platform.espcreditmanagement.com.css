@@ -1,3 +1,5 @@
+/* https://github.com/soteland/css-enhancements/blob/master/platform.espcreditmanagement.com.css */
+
 /* Indicate which row I'm at */
 table#daily_reminders_table tr:hover {
     background-color: #ddd;
