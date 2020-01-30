@@ -1,0 +1,10 @@
+/* https://github.com/soteland/css-enhancements/blob/master/platform.espcreditmanagement.com.css */
+
+/* Indicate what is ads. 
+*  Dont't remove the ads, just emphasize them. Ads aren't alle bad...
+*/
+div[aria-label="Ads"], div[aria-label="Annonser"] {
+    /* display: none; */
+    background-color: #ffff95;
+  zoom: 0.75;
+}
