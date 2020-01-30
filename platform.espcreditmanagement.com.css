@@ -1,0 +1,10 @@
+/* Indicate which row I'm at */
+table#daily_reminders_table tr:hover {
+    background-color: #ddd;
+}
+
+/* Make checkbox visible on hover */
+table#daily_reminders_table tr:hover .iCheck-helper {
+    opacity: 0.9!important;
+  border-radius: 5px;  
+}
