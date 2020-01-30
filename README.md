@@ -5,3 +5,6 @@ Just me wanting to make UX a little better using CSS.
 Install a plugin for adding custom CSS to a site: https://www.google.com/search?q=custom+css+plugin+chrome
 
 I prefer the plugin **"User CSS"**. 
+
+## More stuff
+Check out more here: https://github.com/soteland/tripletexenhanced
