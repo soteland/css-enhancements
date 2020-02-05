@@ -1,0 +1,82 @@
+
+table#topHeadTable {
+    width: 900px!important;
+}
+
+.my_account_info_outer2, .my_reseller_account_info_inner, .accordion, .reseller_account-link {
+  background: none!important;
+  border: none!important;
+}
+
+.accordion {
+  /*background-color: red!important;*/
+}
+.reseller_account-link, .reseller_account-link-active {
+    /*background-color: #eee!important;*/
+    padding: 10px 20px;
+}
+.reseller_account-link-active {
+    background: none;  
+    background-color: #ffffff;
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.2)
+}
+
+.reseller_account-link:hover {  
+    background: none;
+    background-color: #ffffff!important;
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.2)
+  
+}
+
+td#rightHeadTable table {
+  border: none!important;
+  box-shadow: 3px 3px 4px rgba(0,0,0,0.2);
+    background: #fff;
+}
+
+.reseller_account-link, .reseller_account-link-active, .reseller_account-link-inactive {
+  line-height: auto;
+  height: auto;
+}
+
+.ui-state-active {
+    background: none;
+}
+
+.tabsc, .tabsc_on {
+    background: none;
+    background-color: #ddd;
+    padding: 10px;
+}
+.tabsc_on { 
+    background-color: #fff;
+  color: black;
+  border-width: 1px 0 0 0;
+}
+.tabsc:hover {
+    background: none;
+  border-width: 1px 0 0 0;
+  color: black;
+  background-color: #fefefe;
+}
+
+table.dataTable thead th {
+  background: none;
+  background-color: #ddd;
+  color: black!important;
+  border: none;  
+}
+
+table#DataTables_Table_1 td a {
+  /*background-color: red*/
+}
+div#main_container_gis {
+    background: none;
+}
+.boamenu {    
+    background: none;
+}
+.boamenu:hover {
+  background: none!important;
+  background-color: green!important;
+}
